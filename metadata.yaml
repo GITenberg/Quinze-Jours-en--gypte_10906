@@ -1,0 +1,26 @@
+_repo: Quinze-Jours-en--gypte_10906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neuray, Fernand
+    birthdate: 1874
+    deathdate: 1934
+    gutenberg_agent_id: '3744'
+    url: http://www.gutenberg.org/2009/agents/3744
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10906'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Neuray, Fernand, 1874-1934 -- Travel -- Egypt'
+- GITenberg
+title: Quinze Jours en Égypte
+url: http://www.gutenberg.org/ebooks/10906
